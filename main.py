@@ -246,7 +246,7 @@ def run_strategy_engine(df, start_date, initial_capital, params):
 # -----------------------------------------------------------
 # 2. 사이드바 설정 (설정 저장 기능)
 # -----------------------------------------------------------
-st.title("🚀 SOXL [시그마2] : AI 트레이딩 시스템")
+st.title("🚀 [시그마2] : SOXL for Chayoung")
 st.sidebar.header("⚙️ 기본 설정")
 
 saved_settings = load_settings()
